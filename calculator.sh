@@ -4,4 +4,4 @@
 a= b+c
 
 #subatract
-d = e-f
+x = a-b
